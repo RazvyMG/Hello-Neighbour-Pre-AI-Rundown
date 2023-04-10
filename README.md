@@ -14,4 +14,4 @@ Leo Gaming And Family - Razvy M&G
 
 **Screenshots**
 
-![Early screenshots of the fan-game] (https://github.com/RazvyMG/Hello-Neighbour-Pre-AI-Rundown/issues/1)
+! [Early screenshots of the fan-game] (https://github.com/RazvyMG/Hello-Neighbour-Pre-AI-Rundown/issues/1)
